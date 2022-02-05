@@ -10,6 +10,9 @@
     "esmodules": [
         "scripts/module.mjs"
     ],
+    "scripts": [
+        "scripts/spell-customization.js"
+      ],
     "languages": [
     ],
     "styles": [
@@ -19,8 +22,6 @@
     "manifest": "",
     "download": "",
     "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-    "scripts": [
-        "scripts/spell-customization.js"
-      ]
+    "compatibleCoreVersion": "9"
+    
 }
